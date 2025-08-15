@@ -1,0 +1,16 @@
+{
+  "projects": {
+    "wagon-utils": {
+      "type": "library",
+      "root": "libs/wagon-utils",
+      "entryFile": "index",
+      "sourceRoot": "libs/wagon-utils/src",
+      "compilerOptions": {
+        "tsConfigPath": "libs/wagon-utils/tsconfig.lib.json"
+      }
+    }
+  },
+  "compilerOptions": {
+    "webpack": true
+  }
+}
